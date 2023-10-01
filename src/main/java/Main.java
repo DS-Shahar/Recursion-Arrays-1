@@ -13,4 +13,12 @@ class Main {
   public int findMaxR(int[] a, int n) {
     return a[0];
   }
+  
+  public int findMin(int[] a) {
+    return findMinR(a, a.length - 1);
+  }
+  
+  public int findMinR(int[] a, int n) {
+    return a[0];
+  }
 }
