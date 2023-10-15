@@ -11,7 +11,7 @@ class Main {
   }
 
   public int findMaxR(int[] a, int n) {
-  /********* EDIT THIS CODE **********/
+    /********* EDIT THIS CODE **********/
     return a[0];
   }
   
@@ -20,7 +20,7 @@ class Main {
   }
   
   public int findMinR(int[] a, int n) {
-  /********* EDIT THIS CODE **********/
+    /********* EDIT THIS CODE **********/
     return a[0];
   }
 }
