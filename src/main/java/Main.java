@@ -9,8 +9,9 @@ class Main {
   public int findMax(int[] a) {
     return findMaxR(a, a.length - 1);
   }
-  
+
   public int findMaxR(int[] a, int n) {
+  /********* EDIT THIS CODE **********/
     return a[0];
   }
   
@@ -19,6 +20,7 @@ class Main {
   }
   
   public int findMinR(int[] a, int n) {
+  /********* EDIT THIS CODE **********/
     return a[0];
   }
 }
