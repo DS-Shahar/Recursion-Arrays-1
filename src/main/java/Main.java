@@ -6,20 +6,20 @@ class Main {
     System.out.println(m);
   }
 
-  public int findMax(int[] a) {
+  public static int findMax(int[] a) {
     return findMaxR(a, a.length - 1);
   }
 
-  public int findMaxR(int[] a, int n) {
+  public static int findMaxR(int[] a, int n) {
     /********* EDIT THIS CODE **********/
     return a[0];
   }
   
-  public int findMin(int[] a) {
+  public static int findMin(int[] a) {
     return findMinR(a, a.length - 1);
   }
   
-  public int findMinR(int[] a, int n) {
+  public static int findMinR(int[] a, int n) {
     /********* EDIT THIS CODE **********/
     return a[0];
   }
